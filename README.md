@@ -25,4 +25,4 @@ apt-get install wget && wget https://raw.github.com/namiakai/autoscript/master/d
 
 Modded by NamiaKai-
 
-Website : http://namiakai.gq/
+Website : http://namiakai.com/
