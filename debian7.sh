@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Script by NamiaKai-
-# Website : http://namiakai.gq/
+# Website : https://namiakai.com/
 # ==================================================
 # 
 
