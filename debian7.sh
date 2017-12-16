@@ -75,7 +75,7 @@ rm /etc/nginx/sites-available/default
 wget -O /etc/nginx/nginx.conf "https://raw.github.com/namiakai/autoscript/master/nginx.conf"
 mkdir -p /home/vps/public_html
 echo "<pre>Setup by NamiaKai- | 081515292117</pre>" > /home/vps/public_html/index.html
-wget -O /etc/nginx/conf.d/vps.conf "https://github.com/namiakai/autoscript/blob/master/vps.conf"
+wget -O /etc/nginx/conf.d/vps.conf "https://raw.github.com/namiakai/autoscript/master/vps.conf"
 service nginx restart
 
 # install openvpn
